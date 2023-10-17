@@ -3,7 +3,7 @@ import Header from "./component/Header";
 import Navbar from "./component/Navbar";
 import Contact from "./component/Contact";
 import Projects from "./component/Projects";
-import "./style.css";
+import "./styles.css";
 import Footer from "./component/Footer";
 
 const Port = () => {
